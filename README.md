@@ -1,0 +1,1 @@
+Esta API REST foi desenvolvida utilizando Java 17 e Spring Boot 3 para gerenciar usuários. Permite operações básicas (CRUD) como criação, leitura, atualização e exclusão de usuários. A API está documentada com Swagger/OpenAPI e pode ser implantada na nuvem usando Railway.
